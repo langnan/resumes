@@ -1,4 +1,4 @@
 # resumes 
-[like to google!](https://google.com)
+[like to google!](https://www.google.com/)
 
 
